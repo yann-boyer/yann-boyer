@@ -1,16 +1,25 @@
-### Hi there 👋
+# About me
 
-<!--
-**yann-boyer/yann-boyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Yann BOYER, a 16 years old french developer(and high school student) who loves programming and hardware, I'm a Rust enthusiast too.
 
-Here are some ideas to get you started:
+Here you'll find some projects I've made for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## When I started programming ?
+
+I learned about programming with C and C++ when I was 6 and a half.
+
+## What am I doing now ?
+
+Some projects related about emulation and hardware.
+(This part will probably change, with more detailed things.)
+
+## What language can I use ?
+
+I use 6 languages in daily life :
+
+* Rust
+* Zig
+* C++
+* C
+* Java
+* Python
